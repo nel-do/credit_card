@@ -3,20 +3,23 @@
 	{
 	"cli": "61419597332",
 	"member": "1111",
-  "name": "Neil",
-  "amount": "$120.00"
+  	"name": "Neil",
+	"statement": "1a1a1a1a1a.pdf",
+  	"amount": "$120.00"
    	 },
 	{
 	"cli": "61419727831",
 	"member": "2222",
-  "name": "Mark",
-  "amount": "$130.00"
+  	"name": "Mark",
+	"statement": "2b2b2b2b2b.pdf",
+  	"amount": "$130.00"
    	 },
 	{
 	"cli": "61410463694",
 	"member": "3333",
-  "name": "Jason",
-  "amount": "$220.00"
+  	"name": "Jason",
+	"statement": "3c3c3c3c3c.pdf",
+  	"amount": "$220.00"
    	 }
   ]
 }
